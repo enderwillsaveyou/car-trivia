@@ -1,0 +1,322 @@
+[
+  {
+    "id": "car_001",
+    "answer": "Ford Mustang",
+    "brand": "Ford",
+    "model": "Mustang",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_001_ford_mustang.webp",
+    "choices": [
+      "Ford Mustang",
+      "Mercury Cougar",
+      "Chevrolet Camaro",
+      "Pontiac Firebird"
+    ],
+    "hint": "Classic pony car proportions: long hood, short rear deck, round headlights, and a wide central grille."
+  },
+  {
+    "id": "car_002",
+    "answer": "Chevrolet Camaro",
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_002_chevrolet_camaro.webp",
+    "choices": [
+      "Pontiac Firebird",
+      "Ford Mustang",
+      "Chevrolet Camaro",
+      "Dodge Challenger"
+    ],
+    "hint": "Look for the wide, low stance, a single-bar split front grille with chrome surround, and round dual headlights tucked at the corners."
+  },
+  {
+    "id": "car_003",
+    "answer": "Dodge Charger",
+    "brand": "Dodge",
+    "model": "Charger",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_003_dodge_charger.webp",
+    "choices": [
+      "Plymouth Road Runner",
+      "Dodge Charger",
+      "Ford Torino GT",
+      "Chevrolet Chevelle SS"
+    ],
+    "hint": "Full-width blacked-out grille with hidden headlights and a long, ridged hood \u2014 a distinctly menacing front end."
+  },
+  {
+    "id": "car_004",
+    "answer": "Dodge Challenger",
+    "brand": "Dodge",
+    "model": "Challenger",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_004_dodge_challenger.webp",
+    "choices": [
+      "Ford Mustang",
+      "Pontiac Firebird",
+      "Plymouth Barracuda",
+      "Dodge Challenger"
+    ],
+    "hint": "Quad round headlights flanking a simple horizontal grille, broad muscular fenders, and a clean, blocky front end."
+  },
+  {
+    "id": "car_005",
+    "answer": "Chevrolet Corvette",
+    "brand": "Chevrolet",
+    "model": "Corvette",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_005_chevrolet_corvette.webp",
+    "choices": [
+      "Chevrolet Corvette",
+      "Pontiac Firebird",
+      "Ford Mustang",
+      "AMC AMX"
+    ],
+    "hint": "Two-seat sports car proportions, a low pointed nose, fiberglass body curves, and pop-up or hidden headlights."
+  },
+  {
+    "id": "car_006",
+    "answer": "Pontiac GTO",
+    "brand": "Pontiac",
+    "model": "GTO",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_006_pontiac_gto.webp",
+    "choices": [
+      "Chevrolet Chevelle SS",
+      "Oldsmobile 442",
+      "Pontiac GTO",
+      "Buick GSX"
+    ],
+    "hint": "Split front grille with a body-color divider, twin hood scoops, and stacked or quad headlights \u2014 the original muscle car."
+  },
+  {
+    "id": "car_007",
+    "answer": "Chevrolet Chevelle SS",
+    "brand": "Chevrolet",
+    "model": "Chevelle SS",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_007_chevrolet_chevelle_ss.webp",
+    "choices": [
+      "Pontiac GTO",
+      "Chevrolet Chevelle SS",
+      "Oldsmobile 442",
+      "Plymouth Road Runner"
+    ],
+    "hint": "Blacked-out horizontal grille feel, dual round headlights, and twin power-bulge hood domes."
+  },
+  {
+    "id": "car_008",
+    "answer": "Plymouth Road Runner",
+    "brand": "Plymouth",
+    "model": "Road Runner",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_008_plymouth_road_runner.webp",
+    "choices": [
+      "Plymouth GTX",
+      "Dodge Charger",
+      "Ford Torino GT",
+      "Plymouth Road Runner"
+    ],
+    "hint": "No-frills wide front end, simple grille, body-color bumper feel, and an aggressive scooped hood."
+  },
+  {
+    "id": "car_009",
+    "answer": "Pontiac Firebird",
+    "brand": "Pontiac",
+    "model": "Firebird",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_009_pontiac_firebird.webp",
+    "choices": [
+      "Pontiac Firebird",
+      "Chevrolet Camaro",
+      "Ford Mustang",
+      "Mercury Cougar"
+    ],
+    "hint": "Twin nostril 'beak' grille split by a body-color center, sleek pointed nose, and long pony-car hood."
+  },
+  {
+    "id": "car_010",
+    "answer": "Plymouth Barracuda",
+    "brand": "Plymouth",
+    "model": "Barracuda",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_010_plymouth_barracuda.webp",
+    "choices": [
+      "Dodge Challenger",
+      "AMC Javelin",
+      "Plymouth Barracuda",
+      "Ford Mustang"
+    ],
+    "hint": "Wide rectangular grille with quad headlights, prominent shaker or twin-scoop hood, and a more compact pony-car stance."
+  },
+  {
+    "id": "car_011",
+    "answer": "Chevrolet Nova SS",
+    "brand": "Chevrolet",
+    "model": "Nova SS",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_011_chevrolet_nova_ss.webp",
+    "choices": [
+      "Dodge Dart Swinger",
+      "Chevrolet Nova SS",
+      "Plymouth Barracuda",
+      "Ford Torino GT"
+    ],
+    "hint": "Compact, upright body with a simple horizontal grille, single round headlights, and clean sleeper-muscle lines."
+  },
+  {
+    "id": "car_012",
+    "answer": "Ford Torino GT",
+    "brand": "Ford",
+    "model": "Torino GT",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_012_ford_torino_gt.webp",
+    "choices": [
+      "Mercury Cougar",
+      "Chevrolet Chevelle SS",
+      "Dodge Charger",
+      "Ford Torino GT"
+    ],
+    "hint": "Long, slab-sided body with a full-width grille, quad headlights, and a broad mid-size muscle stance."
+  },
+  {
+    "id": "car_013",
+    "answer": "Mercury Cougar",
+    "brand": "Mercury",
+    "model": "Cougar",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_013_mercury_cougar.webp",
+    "choices": [
+      "Mercury Cougar",
+      "Ford Mustang",
+      "Pontiac Firebird",
+      "Plymouth Barracuda"
+    ],
+    "hint": "Hidden headlights behind vertical grille slats giving a 'closed eyes' look \u2014 a more upscale, refined pony-car cousin."
+  },
+  {
+    "id": "car_014",
+    "answer": "Oldsmobile 442",
+    "brand": "Oldsmobile",
+    "model": "442",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_014_oldsmobile_442.webp",
+    "choices": [
+      "Buick GSX",
+      "Pontiac GTO",
+      "Oldsmobile 442",
+      "Chevrolet Chevelle SS"
+    ],
+    "hint": "Split grille with a horizontal bar, dual round headlights, and a clean W-30 style fiberglass hood with forward-facing scoops."
+  },
+  {
+    "id": "car_015",
+    "answer": "Buick GSX",
+    "brand": "Buick",
+    "model": "GSX",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_015_buick_gsx.webp",
+    "choices": [
+      "Oldsmobile 442",
+      "Buick GSX",
+      "Pontiac GTO",
+      "Plymouth GTX"
+    ],
+    "hint": "Refined chrome-trimmed grille, bold premium hood shape, and a more upscale finish than its GM siblings."
+  },
+  {
+    "id": "car_016",
+    "answer": "AMC AMX",
+    "brand": "AMC",
+    "model": "AMX",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_016_amc_amx.webp",
+    "choices": [
+      "Chevrolet Corvette",
+      "Plymouth Barracuda",
+      "AMC Javelin",
+      "AMC AMX"
+    ],
+    "hint": "Short two-seat body, a small bullet-shaped grille, and a stubby, blunt front end."
+  },
+  {
+    "id": "car_017",
+    "answer": "AMC Javelin",
+    "brand": "AMC",
+    "model": "Javelin",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_017_amc_javelin.webp",
+    "choices": [
+      "AMC Javelin",
+      "AMC AMX",
+      "Mercury Cougar",
+      "Plymouth Barracuda"
+    ],
+    "hint": "Long sloping hood with twin nostril scoops, a wide rectangular grille, and exaggerated bulged fenders \u2014 AMC's pony car."
+  },
+  {
+    "id": "car_018",
+    "answer": "Dodge Dart Swinger",
+    "brand": "Dodge",
+    "model": "Dart Swinger",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_018_dodge_dart_swinger.webp",
+    "choices": [
+      "Plymouth Barracuda",
+      "Chevrolet Nova SS",
+      "Dodge Dart Swinger",
+      "Ford Torino GT"
+    ],
+    "hint": "Smaller compact A-body proportions, a simple thin grille, single round headlights, and clean economical lines."
+  },
+  {
+    "id": "car_019",
+    "answer": "Plymouth GTX",
+    "brand": "Plymouth",
+    "model": "GTX",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_019_plymouth_gtx.webp",
+    "choices": [
+      "Plymouth Road Runner",
+      "Plymouth GTX",
+      "Dodge Charger",
+      "Buick GSX"
+    ],
+    "hint": "Chrome-trimmed grille, premium heavy-muscle stance, and twin power-bulge hood shapes."
+  },
+  {
+    "id": "car_020",
+    "answer": "Chevrolet El Camino SS",
+    "brand": "Chevrolet",
+    "model": "El Camino SS",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_020_chevrolet_el_camino_ss.webp",
+    "choices": [
+      "Chevrolet Chevelle SS",
+      "Ford Torino GT",
+      "Dodge Charger",
+      "Chevrolet El Camino SS"
+    ],
+    "hint": "Front end is close to a Chevelle-style muscle car, but the cabin and rear silhouette reveal the pickup-coupe shape."
+  }
+]

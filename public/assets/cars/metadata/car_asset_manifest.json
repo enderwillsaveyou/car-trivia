@@ -1,0 +1,202 @@
+[
+  {
+    "id": "car_001",
+    "answer": "Ford Mustang",
+    "brand": "Ford",
+    "model": "Mustang",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_001_ford_mustang.webp",
+    "prompt": "/assets/cars/prompts/car_001_ford_mustang_prompt.md"
+  },
+  {
+    "id": "car_002",
+    "answer": "Chevrolet Camaro",
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_002_chevrolet_camaro.webp",
+    "prompt": "/assets/cars/prompts/car_002_chevrolet_camaro_prompt.md"
+  },
+  {
+    "id": "car_003",
+    "answer": "Dodge Charger",
+    "brand": "Dodge",
+    "model": "Charger",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_003_dodge_charger.webp",
+    "prompt": "/assets/cars/prompts/car_003_dodge_charger_prompt.md"
+  },
+  {
+    "id": "car_004",
+    "answer": "Dodge Challenger",
+    "brand": "Dodge",
+    "model": "Challenger",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_004_dodge_challenger.webp",
+    "prompt": "/assets/cars/prompts/car_004_dodge_challenger_prompt.md"
+  },
+  {
+    "id": "car_005",
+    "answer": "Chevrolet Corvette",
+    "brand": "Chevrolet",
+    "model": "Corvette",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_005_chevrolet_corvette.webp",
+    "prompt": "/assets/cars/prompts/car_005_chevrolet_corvette_prompt.md"
+  },
+  {
+    "id": "car_006",
+    "answer": "Pontiac GTO",
+    "brand": "Pontiac",
+    "model": "GTO",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_006_pontiac_gto.webp",
+    "prompt": "/assets/cars/prompts/car_006_pontiac_gto_prompt.md"
+  },
+  {
+    "id": "car_007",
+    "answer": "Chevrolet Chevelle SS",
+    "brand": "Chevrolet",
+    "model": "Chevelle SS",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_007_chevrolet_chevelle_ss.webp",
+    "prompt": "/assets/cars/prompts/car_007_chevrolet_chevelle_ss_prompt.md"
+  },
+  {
+    "id": "car_008",
+    "answer": "Plymouth Road Runner",
+    "brand": "Plymouth",
+    "model": "Road Runner",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_008_plymouth_road_runner.webp",
+    "prompt": "/assets/cars/prompts/car_008_plymouth_road_runner_prompt.md"
+  },
+  {
+    "id": "car_009",
+    "answer": "Pontiac Firebird",
+    "brand": "Pontiac",
+    "model": "Firebird",
+    "era": "1960s-1970s",
+    "difficulty": "easy",
+    "image": "/assets/cars/car_009_pontiac_firebird.webp",
+    "prompt": "/assets/cars/prompts/car_009_pontiac_firebird_prompt.md"
+  },
+  {
+    "id": "car_010",
+    "answer": "Plymouth Barracuda",
+    "brand": "Plymouth",
+    "model": "Barracuda",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_010_plymouth_barracuda.webp",
+    "prompt": "/assets/cars/prompts/car_010_plymouth_barracuda_prompt.md"
+  },
+  {
+    "id": "car_011",
+    "answer": "Chevrolet Nova SS",
+    "brand": "Chevrolet",
+    "model": "Nova SS",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_011_chevrolet_nova_ss.webp",
+    "prompt": "/assets/cars/prompts/car_011_chevrolet_nova_ss_prompt.md"
+  },
+  {
+    "id": "car_012",
+    "answer": "Ford Torino GT",
+    "brand": "Ford",
+    "model": "Torino GT",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_012_ford_torino_gt.webp",
+    "prompt": "/assets/cars/prompts/car_012_ford_torino_gt_prompt.md"
+  },
+  {
+    "id": "car_013",
+    "answer": "Mercury Cougar",
+    "brand": "Mercury",
+    "model": "Cougar",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_013_mercury_cougar.webp",
+    "prompt": "/assets/cars/prompts/car_013_mercury_cougar_prompt.md"
+  },
+  {
+    "id": "car_014",
+    "answer": "Oldsmobile 442",
+    "brand": "Oldsmobile",
+    "model": "442",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_014_oldsmobile_442.webp",
+    "prompt": "/assets/cars/prompts/car_014_oldsmobile_442_prompt.md"
+  },
+  {
+    "id": "car_015",
+    "answer": "Buick GSX",
+    "brand": "Buick",
+    "model": "GSX",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_015_buick_gsx.webp",
+    "prompt": "/assets/cars/prompts/car_015_buick_gsx_prompt.md"
+  },
+  {
+    "id": "car_016",
+    "answer": "AMC AMX",
+    "brand": "AMC",
+    "model": "AMX",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_016_amc_amx.webp",
+    "prompt": "/assets/cars/prompts/car_016_amc_amx_prompt.md"
+  },
+  {
+    "id": "car_017",
+    "answer": "AMC Javelin",
+    "brand": "AMC",
+    "model": "Javelin",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_017_amc_javelin.webp",
+    "prompt": "/assets/cars/prompts/car_017_amc_javelin_prompt.md"
+  },
+  {
+    "id": "car_018",
+    "answer": "Dodge Dart Swinger",
+    "brand": "Dodge",
+    "model": "Dart Swinger",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_018_dodge_dart_swinger.webp",
+    "prompt": "/assets/cars/prompts/car_018_dodge_dart_swinger_prompt.md"
+  },
+  {
+    "id": "car_019",
+    "answer": "Plymouth GTX",
+    "brand": "Plymouth",
+    "model": "GTX",
+    "era": "1960s-1970s",
+    "difficulty": "hard",
+    "image": "/assets/cars/car_019_plymouth_gtx.webp",
+    "prompt": "/assets/cars/prompts/car_019_plymouth_gtx_prompt.md"
+  },
+  {
+    "id": "car_020",
+    "answer": "Chevrolet El Camino SS",
+    "brand": "Chevrolet",
+    "model": "El Camino SS",
+    "era": "1960s-1970s",
+    "difficulty": "medium",
+    "image": "/assets/cars/car_020_chevrolet_el_camino_ss.webp",
+    "prompt": "/assets/cars/prompts/car_020_chevrolet_el_camino_ss_prompt.md"
+  }
+]

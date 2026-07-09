@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic Car ID</title>
+    <meta name="theme-color" content="#111111">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <!-- Start screen (first load only) -->
+        <section id="start-screen" class="screen-card" aria-label="Start screen">
+            <div class="screen-panel">
+                <h1 class="screen-title">Classic Car ID</h1>
+                <p class="screen-tagline">Chrome, shadows, and old garage clues</p>
+                <button id="start-button" class="primary-btn">Start Engine</button>
+            </div>
+        </section>
+
+        <!-- Game screen -->
+        <div id="game-screen" class="is-hidden">
+            <header class="game-header">
+                <div class="title-lockup">
+                    <p class="game-title">Classic Car ID</p>
+                    <p class="subtitle">Chrome, shadows, and old garage clues</p>
+                </div>
+                <div class="score-display">Score: <span id="score">0</span> / <span id="total">0</span></div>
+            </header>
+
+            <main>
+                <div class="image-container" aria-live="polite">
+                    <img id="car-image" src="" alt="Mystery classic car front view" class="is-hidden" loading="eager" decoding="async">
+                    <div id="image-placeholder" class="placeholder">
+                        <span>Loading car image</span>
+                    </div>
+                </div>
+
+                <div class="question-container">
+                    <h2>Whose front-end clue is this?</h2>
+                </div>
+
+                <div id="answers-container" class="answers-grid">
+                    <!-- Answer buttons will be generated here -->
+                </div>
+
+                <div id="feedback-container" class="feedback hidden">
+                    <p id="feedback-text"></p>
+                    <button id="next-button" class="primary-btn">Next Car</button>
+                </div>
+            </main>
+        </div>
+
+        <!-- End-of-round summary screen -->
+        <section id="end-screen" class="screen-card is-hidden" aria-label="Round results">
+            <div class="screen-panel">
+                <h2 class="screen-title">Round Complete</h2>
+                <p class="final-score"><span id="final-score">0</span> / <span id="final-total">20</span></p>
+                <p id="final-percent" class="final-percent">0% correct</p>
+                <p id="final-grade" class="final-grade">Shade Tree Mechanic</p>
+                <button id="play-again-button" class="primary-btn">Play Again</button>
+            </div>
+        </section>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
