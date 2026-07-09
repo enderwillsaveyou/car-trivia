@@ -4,7 +4,10 @@ Last updated: 2026-07-08
 
 ## Project Status
 
-V2 polish sprint implemented. The game now plays as a complete session: branded start screen → 20 unique questions via a full shuffle queue (no repeats) → end-of-round summary with score, percentage, grade label, and Play Again. All 20 car images generated and optimized. Ready for end-to-end mobile playtest, AMX image regeneration, and deploy.
+**V2 complete and live.** The game plays as a full session: branded start screen → 20 unique questions via full shuffle queue (no repeats) → end-of-round summary with score, percentage, grade label, and Play Again. Deployed to GitHub Pages. Ready for end-to-end mobile playtest. Only outstanding content issue is the AMX image (#16).
+
+**Live URL:** https://enderwillsaveyou.github.io/car-trivia/
+**GitHub repo:** https://github.com/enderwillsaveyou/car-trivia
 
 ## Current Gameplay Loop
 

@@ -115,6 +115,7 @@ function startRound() {
     hasAnswered = false;
     feedbackContainer.classList.add('hidden');
     answersContainer.replaceChildren();
+    nextButton.textContent = 'Next Car';
 
     currentCar = queue.pop();
 
@@ -133,6 +134,9 @@ function showEndScreen() {
     finalTotalEl.textContent = total;
     finalPercentEl.textContent = `${percent}% correct`;
     finalGradeEl.textContent = gradeForPercent(percent);
+
+    // Reveal the stat elements now that they have real values
+    document.querySelectorAll('.pre-fill').forEach(el => el.classList.remove('pre-fill'));
 
     showScreen('end');
 }

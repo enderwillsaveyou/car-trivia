@@ -422,6 +422,11 @@ h2 {
     text-transform: uppercase;
 }
 
+/* Hides end-screen stats until JS fills them to prevent default-value flash */
+.pre-fill {
+    visibility: hidden;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
